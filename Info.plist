@@ -24,9 +24,9 @@
 	<string>AlphaBlendModePrincipal</string>
 	<key>GFPlugIn</key>
 	<true/>
-    <key>KIMinimumSystemVersion</key>
-    <string>10.5</string>
-    <key>KIMaximumSystemVersion</key>
-    <string>10.7</string>
+	<key>KIMinimumSystemVersion</key>
+	<string>10.5</string>
+	<key>KIMaximumSystemVersion</key>
+	<string>10.8</string>
 </dict>
 </plist>
